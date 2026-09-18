@@ -1,4 +1,3 @@
-# トータルトーク予約サイト
 <!doctype html>
 <html lang="ja">
   <head>
